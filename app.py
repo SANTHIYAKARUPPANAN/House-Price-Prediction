@@ -65,6 +65,12 @@ def predict_price():
 if st.button("💰 Predict Price"):
     price = predict_price()
     st.success(f"Estimated House Price: ₹ {round(price,2)}")
+    if price < 2000000:
+        st.info("This is a low-priced property.")
+    elif price < 5000000:
+        st.info("This is a mid-range property.")
+    else:
+        st.info("This is a high-value property.")
 
 # ---------- Extra Info ----------
 st.markdown("---")
