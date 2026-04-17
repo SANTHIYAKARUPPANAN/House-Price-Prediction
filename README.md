@@ -12,12 +12,12 @@ This project focuses on predicting house prices using the Ames Housing dataset. 
 
 ⚙️ Technologies Used
 
- Python
- pandas
- numpy
- scikit-learn
- matplotlib
- seaborn
+ 1.Python
+ 2.pandas
+ 3.numpy
+ 4.scikit-learn
+ 5.matplotlib
+ 6.seaborn
 
 🧠 Workflow
 
