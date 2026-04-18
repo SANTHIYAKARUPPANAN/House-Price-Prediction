@@ -74,6 +74,8 @@ README.md
 3.Try advanced models (Random Forest, XGBoost)
 4.Deploy as a web application
 
+Dashboard Link:https://santhiyakaruppanan-house-price-prediction-app-ktqwh3.streamlit.app/
+
 🎯 Conclusion
 
 This project demonstrates a basic machine learning pipeline for regression problems and highlights the importance of feature selection and preprocessing in improving model performance.
